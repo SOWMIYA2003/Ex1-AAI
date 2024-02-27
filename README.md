@@ -103,7 +103,8 @@ plt.show()
 ![op](./a2.png)
 ![op](./a3.png)
 ### Network : 
-![op](./a1.png)
+![aw1](https://github.com/SOWMIYA2003/Ex1-AAI/assets/93427443/d3e9b4bb-15ca-4895-bd28-97f10348a488)
 ## Result:
    Thus a Bayesian Network is generated using Python
+
 
