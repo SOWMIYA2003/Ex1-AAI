@@ -79,7 +79,7 @@ bbn = Bbn() \
     .add_edge(Edge(W, RT, EdgeType.DIRECTED))
 
 join_tree = InferenceController.apply(bbn)
-pos={0: (-1,0), 1: (-1, 0.5), 2: (1, 0), 3:(0,-0.5)}
+pos={0: (-1,2), 1: (-1, 0.5), 2: (1, 0.5), 3:(0,-1)}
 
 options = {
     "font_size": 16,
